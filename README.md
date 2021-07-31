@@ -11,9 +11,8 @@ Once you did that, just add a shortcut to run the `backticks_jump` and jump back
 { "keys": ["ctrl+,"], "command": "backticks_jump"}
 ```
 
----
 
-If you are using the `Vintage` package you can get the exact same shortcut you use in vim by adding these lines to you key bindings config.
+If you are using the `Vintage` package you can get the exact same shortcut you use in `vim` by adding these lines to you key-bindings config file.
 
 ```
   // jumps back/forth between the previous and next cursor positions.
@@ -25,6 +24,8 @@ If you are using the `Vintage` package you can get the exact same shortcut you u
     "command": "backticks_jump"
   },
 ````
+
+More custom key-bindings [here](https://gist.github.com/amiralles/c05b88c381cdd0ee20a8d74043fb0a06)
 
 ### TODO
 Create a package so that it's easier to install.
