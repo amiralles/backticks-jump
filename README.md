@@ -1,5 +1,13 @@
 # backticks-jump
-A small Sublime Text plugin to quickly jump back and forth between the previous and next cursor positions. (It works similarly to vim's bultin backtick-backtick command.)
+A small Sublime Text plugin ispired by _**vim's bultin backtick-backtick command**_ that allows you to jump back and forth between the previous and next cursor position.
+
+So instead of hitting `ctrl+-` to jump to the previous position and then `ctrl+shift+-` to get back, you just hit a single shortcut of your choice.
+
+And of course, it can be mapped to `backtick backtick` if you are running "Vintange Mode."
+
+
+![backticks-jump](https://user-images.githubusercontent.com/2120820/127752340-76bac089-5550-4484-980f-aa6edc8fa4cb.gif)
+
 
 
 ### Installation
